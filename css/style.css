@@ -12,7 +12,6 @@
     transition: all .5s cubic-bezier(.37, 1.14, .26, 1.24);
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 
 *::selection {
@@ -242,7 +241,7 @@ header .fa-bars {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    width: 80%;
+        width: 80%;
     margin: 0 auto;
 }
 
